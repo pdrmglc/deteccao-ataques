@@ -8,6 +8,12 @@ Os conjuntos de dados fornecidos consistem em registros de tráfego de rede, cap
 
 ## Metodologia
 
+### Preparação do ambiente de trabalho
+
+1. Criação de um ambiente py-env para isolar dependências
+2. Uso do Jupyter-lab para organização do fluxo de trabalho
+3. Criação de repositório remoto no GitHub para documentação do protocolo
+
 ### Análise Exploratória de Dados:
 
 1. Identificação de estatísticas descritivas e características relevantes dos dados.
